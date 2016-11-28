@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{368D44DD-FBDF-4650-B1D5-13C47646F197}|Default">
+  <MonoDevelop.Ide.ItemProperties.BlueToothCheck.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.7a6e93cce1542bf809f7f7f5280366014ec984a1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/BlueToothCheckRenderer.cs">
+    <Files>
+      <File FileName="iOS/BlueToothCheckRenderer.cs" Line="112" Column="4" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/uknektdev/Projects/BlueToothCheck/iOS/BlueToothCheckViewController.cs" line="79" column="1" />
+      <Breakpoint file="/Users/uknektdev/Projects/BlueToothCheck/iOS/BlueToothCheck.cs" line="80" column="1" />
+      <Breakpoint file="/Users/uknektdev/Projects/BlueToothCheck/iOS/BlueToothCheckRenderer.cs" line="23" column="1" />
+      <Breakpoint file="/Users/uknektdev/Projects/BlueToothCheck/iOS/BlueToothCheckRenderer.cs" line="34" column="1" />
+      <Breakpoint file="/Users/uknektdev/Projects/BlueToothCheck/iOS/BlueToothCheckRenderer.cs" line="242" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
